@@ -1,3 +1,4 @@
+# Profile
 - [Name](#Name)
 - [nickname](#nickname)
 - [birthday](#birthday)
@@ -19,15 +20,15 @@
 -
 # Name
 - [ Jirasak Suwabud ]
-[(Back to top)](#Name)
+[(Back to top)](#Profile)
 
 # nickname
 - [ Max ]
-[(Back to top)](#Name)
+[(Back to top)](#Profile)
 
-### birthday
+# birthday
 - [ 24/ May / 1996 ]
    # age
    - [ 24 years old ]
-[(Back to top)](#Name)
+[(Back to top)](#Profile)
 
